@@ -4,3 +4,5 @@ This is a repo of my first attempt using the gganimate library. This entire proj
 <p align="center"><img src = "https://github.com/HTiscar/NBADynamicPlot/blob/master/Static_Plot.png" height = "480" width = "720"></p>
 
 <p align ="center"><img src = "https://github.com/HTiscar/NBADynamicPlot/blob/master/Dynamic_Animation.gif"></p>
+
+<p align="center"><img src="https://github.com/HTiscar/NBADynamicPlot/blob/master/Dynamic_Plot_Court.gif"></p>
